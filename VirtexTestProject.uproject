@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{47B28F4D-4111-3B7C-1D1F-8796DD4811C3}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "VirtexTestProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"IOS",
+		"Linux",
+		"Mac",
+		"Windows"
+	]
+}
